@@ -1,0 +1,15 @@
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\bin\Debug\net6.0\OOP PROYECT 2.0.exe
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\bin\Debug\net6.0\OOP PROYECT 2.0.deps.json
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\bin\Debug\net6.0\OOP PROYECT 2.0.runtimeconfig.json
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\bin\Debug\net6.0\OOP PROYECT 2.0.dll
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\bin\Debug\net6.0\OOP PROYECT 2.0.pdb
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.AssemblyInfo.cs
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.dll
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\refint\OOP PROYECT 2.0.dll
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.pdb
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\OOP PROYECT 2.0.genruntimeconfig.cache
+C:\Users\roddy\source\repos\OOP PROYECT 2.0\OOP PROYECT 2.0\obj\Debug\net6.0\ref\OOP PROYECT 2.0.dll
